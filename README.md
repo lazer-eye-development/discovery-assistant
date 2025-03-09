@@ -59,7 +59,7 @@ This single-page Streamlit application leverages OpenAI's language models (GPT-4
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/lazer-eye-development/discovery-assistant.git
-cd agent-assisted-discovery
+cd discovery-assistant
 ```
 
 2. **Install required packages:**
